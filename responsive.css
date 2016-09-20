@@ -1,0 +1,18 @@
+@media screen and (min-width:480px){
+
+#primary{
+  width: 50px;
+  float: left;
+}
+
+#secondary{
+  width: 40px;
+  float: right;
+}
+
+}
+
+@media screen and (min-width:660px){
+
+
+}
